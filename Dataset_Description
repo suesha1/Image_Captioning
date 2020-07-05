@@ -1,0 +1,6 @@
+I have used the Flickr 8k dataset
+This dataset contains 8000 images each with 5 captions 
+These images are bifurcated as follows:
+Training Set — 6000 images
+Dev Set — 1000 images
+Test Set — 1000 images
